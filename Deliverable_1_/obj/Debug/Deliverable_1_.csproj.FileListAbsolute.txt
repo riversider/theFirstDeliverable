@@ -1,0 +1,10 @@
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\bin\Debug\Deliverable_1_.exe.config
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\bin\Debug\Deliverable_1_.exe
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\bin\Debug\Deliverable_1_.pdb
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\obj\Debug\Deliverable_1_.csproj.AssemblyReference.cache
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\obj\Debug\Deliverable_1_.Form1.resources
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\obj\Debug\Deliverable_1_.Properties.Resources.resources
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\obj\Debug\Deliverable_1_.csproj.GenerateResource.cache
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\obj\Debug\Deliverable_1_.csproj.CoreCompileInputs.cache
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\obj\Debug\Deliverable_1_.exe
+C:\Users\Trinyte\source\repos\Deliverable_1_\Deliverable_1_\obj\Debug\Deliverable_1_.pdb
